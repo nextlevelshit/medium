@@ -14,3 +14,6 @@ Hubber - Bringing Business Intelligence onto your Website
 
 ## How we are fooled by trivial and linear solutions
 A concession of complexity
+
+## Art without Piece of Art
+If an untriggered photo is also art
