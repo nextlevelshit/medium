@@ -17,3 +17,6 @@ A concession of complexity
 
 ## Art without Piece of Art
 If an untriggered photo is also art
+
+## Skateboarding habits
+Decrease latency of positive experience referred after bad ones
