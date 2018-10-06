@@ -15,8 +15,10 @@ Hubber - Bringing Business Intelligence onto your Website
 ## How we are fooled by trivial and linear solutions
 A concession of complexity
 
-## Art without Piece of Art
-If an untriggered photo is also art
-
 ## Skateboarding habits
 Decrease latency of positive experience referred after bad ones
+
+## Why you should refactor your first piece of code ever
+
+References: 
+- [ITT 2016 - Kevlin Henney - Seven Ineffective Coding Habits of Many Programmers](https://www.youtube.com/watch?v=ZsHMHukIlJY)
