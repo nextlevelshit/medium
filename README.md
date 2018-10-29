@@ -1,5 +1,8 @@
 # Planned articles on medium
 
+## Code Design Sucks <small>So let's fix it.</small>
+
+
 ## How to keep your shit together
 When the funnel goes the other way round
 
@@ -14,6 +17,8 @@ Hubber - Bringing Business Intelligence onto your Website
 
 ## How we are fooled by trivial and linear solutions
 A concession of complexity
+
+> „Explanations exist; they have existed for all time; there is always a well-known solution to every human problem—neat, plausible, and wrong.“ — Henry Louis Mencken
 
 ## Skateboarding habits
 Decrease latency of positive experience referred after bad ones
