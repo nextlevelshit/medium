@@ -1,6 +1,9 @@
 # Planned articles on medium
 
-## Code Design Sucks <small>So let's fix it.</small>
+## Code Design Sucks 
+> After hearing from high performance computer system's programmers having to be tought stuff like [git](Revision control manages changes to a set of data over time.), CI and modern programming standards, I am not sure, if I still want Research and Progress to increase and accelerate. It is not about the fact, that highly educated people are not motivated to follow a so called defacto standard and best practise. No, it is not about that. I am concerned about their ignorance. We are surrounded by mass-aplicable technologies that mostly fit one function. Everything becomes technology, but anything remains.
+
+In Design mostly everybody heard about «Form follows Function» proposition. But what does that actually mean? Do my Thoughts regarding the Functions, Features and Purposes come after the Form is established when I am developing a new Product? 
 
 
 ## How to keep your shit together
