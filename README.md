@@ -1,3 +1,9 @@
+# Technology does not solve any social problems, but technical ones
+
+After hearing a series of super-scientific talks on how to overcome obstacles that hinder the actual work, I am done. I have seen everything, that I wanted to see. The work is done. It is cute to see some individiuals promoting there little pieces of software that can run on high performance machines, that are only accessable from university networks or similiar institutions, that can gather hunders of processors and hundreds of gigabytes of RAM.
+
+Why are you calling your software open? It is open, yes, to a biased and homogeneous slice of the society. Yes, it is open, if you can read the codes^[Social codes as well as source codes]. It is a biased rather one-dimensional particular part of humanes. You have to be at least a student^[xx% of German Society 2018 is right now studiying, xx% of German Society has studied and carries a degree, xx% of German Society intends to achieve 2018 (Gymnasiasten, Abendschule, Berufsschule etc.)] It is homogeneous, because most attending people on conferences are white, male,harmless and nice humans.
+
 # Planned articles on medium
 
 ## Code Design Sucks 
