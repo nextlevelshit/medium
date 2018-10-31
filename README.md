@@ -1,3 +1,7 @@
+## What we can learn from Computer Game Discussion about Discourse Theory
+
+On an example of https://boards.na.leagueoflegends.com/en/c/gameplay-plus/8gLiLnXs-about-gameplay-approval-process-guidelines-and-etiquette
+
 ## Cartographing the internet
 
 Recieve unique data bei a minimum of input (short search terms).
