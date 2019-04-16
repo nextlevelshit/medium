@@ -17,10 +17,10 @@ The often quoted phrase „Don't let me think“ might be a tremendious game cha
 The sofware, and I mean websites and apps also, we are using day to day is broken.
 And ethical design migth hold the answer.
 Aral Balkan paved the way for us.
-Give it a fly-by-read, it is very short and join our way back to benevolent and individual software development.
+Give it a fly-by-read, it is very short and join our way back developing benevolent and individual software.
 
 I kept my problem description very briefly in favor to focus on a simple design solution, which might have the power to change at least a tiny thing in the world wide web.
-It is better to invest my energy that brings some advantage on high probablity instead of invest lots of time in projects that will change whole sophisticated ecosystems on high cost and less probability of finite realisation.
+It is better to invest my energy into something that brings some advantage on high probablity instead of wasting time in projects that might change whole sophisticated ecosystems on high cost and less probability of finite realisation.
 
 ### display: sticky
 
