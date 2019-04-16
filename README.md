@@ -1,3 +1,46 @@
+## `display: sticky; top: 0`
+When the waterfall rises
+
+Scrolling and swiping are not tools to neither briefly nor comprehensively digest the flood of information on the Web.
+While scrolling and swiping your eyes are doing lot of work for you.
+They are trying to capture any intresting, because you are most probably curious.
+They are trying to filter relevant information, because you are most probably searching.
+Your eyes are most probably used to that behaviour, because you do not know anything else.
+
+More and more websites pretending to be user-friendly, innovative and serving only useful content.
+And you know, that is total bullshit.
+Amazon hides it logout-button on an unexpected position in a drop-down (or fly-out) menu.
+Twitter does the same.
+They are all following the same trend, namely user-un-friendliness.
+
+The often quoted phrase „Don't let me think“ might be a tremendious game changer in re-thinking design, but this might let us into a dead end.
+The sofware, and I mean websites and apps also, we are using day to day is broken.
+And ethical design migth hold the answer.
+Aral Balkan paved the way for us.
+Give it a fly-by-read, it is very short and join our way back to benevolent and individual software development.
+
+I kept my problem description very briefly in favor to focus on a simple design solution, which might have the power to change at least a tiny thing in the world wide web.
+It is better to invest my energy that brings some advantage on high probablity instead of invest lots of time in projects that will change whole sophisticated ecosystems on high cost and less probability of finite realisation.
+
+### display: sticky
+
+### display: sticky; top: 0
+
+### Showcases
+
+#### Gallery
+
+#### Social Media
+
+#### Contact Lists
+
+#### Dictonaries, Glossaries and Encyclopedias
+
+#### E-Commerce
+
+## Re-doing keeps the ability to approach any problem from several perspectives
+Synonyms · Antonyms
+
 ## What we can learn from Computer Game Discussion about Discourse Theory
 
 On an example of https://boards.na.leagueoflegends.com/en/c/gameplay-plus/8gLiLnXs-about-gameplay-approval-process-guidelines-and-etiquette
@@ -26,9 +69,6 @@ Superposition, Entangaling and Optimization on what costs?
 
 ## How to unleash community based learning
 SO WE LEARN · UN-LEARN · RE-LEARN
-
-## How to track any client-side function call 
-Hubber - Bringing Business Intelligence onto your Website
 
 ## How we are fooled by trivial and linear solutions
 A concession of complexity
