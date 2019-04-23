@@ -1,4 +1,4 @@
-## `display: sticky; top: 0`
+## `display: sticky; top: 0;`
 When the waterfall rises
 
 Scrolling and swiping are not tools to neither briefly nor comprehensively digest the flood of information on the Web.
